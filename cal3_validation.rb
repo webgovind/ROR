@@ -14,7 +14,7 @@
 his = []
 while true 
     result = ""
-    puts "Enter the number of operants:"
+    puts "Enter the number of operants: "
     while 1 
         n = gets.to_i
         if n<2 
